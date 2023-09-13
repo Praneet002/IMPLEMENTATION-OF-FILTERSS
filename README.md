@@ -32,8 +32,8 @@ End the program.
 </br> 
 
 ## Program:
-### Developed By   : ALDRIN LIJO J E
-### Register Number: 212222240007
+### Developed By   : PRANEET S
+### Register Number: 212221230078
 </br>
 
 ### 1. Smoothing Filters
